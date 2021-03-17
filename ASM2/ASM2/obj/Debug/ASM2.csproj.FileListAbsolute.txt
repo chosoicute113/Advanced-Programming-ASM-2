@@ -1,0 +1,13 @@
+C:\Users\trail\source\repos\ASM2\ASM2\bin\Debug\ASM2.exe.config
+C:\Users\trail\source\repos\ASM2\ASM2\bin\Debug\ASM2.exe
+C:\Users\trail\source\repos\ASM2\ASM2\bin\Debug\ASM2.pdb
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.csprojAssemblyReference.cache
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.Form1.resources
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.Properties.Resources.resources
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.csproj.GenerateResource.cache
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.csproj.CoreCompileInputs.cache
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.exe
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.pdb
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.Form2.resources
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.Form3.resources
+C:\Users\trail\source\repos\ASM2\ASM2\obj\Debug\ASM2.Form4.resources
